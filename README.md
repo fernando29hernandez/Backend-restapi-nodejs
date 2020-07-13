@@ -45,22 +45,15 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
-    $ yarn install
+    $ git clone https://github.com/fernando29hernandez/backend-restapi-nodejs.git
+    $ cd backend-restapi
+    $ npm install
 
-## Configure app
-
-Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
-
-- A setting;
-- Another setting;
-- One more setting;
 
 ## Running the project
 
-    $ yarn start
+    $ nodemon  
 
 ## Simple build for production
 
-    $ yarn build
+    $ node build
